@@ -1,0 +1,46 @@
+body {
+  font-family: "Inter";
+  margin: 40px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+a {
+    font-style: normal;
+    font-size: 20px;
+    line-height: 30px;
+  
+    color: #000000;
+}
+
+p {
+  font-style: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+
+#blog {
+  box-sizing: border-box;
+  border: 2px solid #000000;
+  padding: 10px;
+}
+
+#dog {
+  width: 800px;
+  height: 500px;
+  left: 58px;
+  top: 800px;
+}
+
+#list {
+  font-style: normal;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
